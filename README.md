@@ -1,10 +1,10 @@
 # BNControl-lib
 Library of functions for control of Boolean networks
 
-The library is implemented in Wolfram Language (Mathematica), there are two core algorithms for the computation of control sets available as two options :
+The library is implemented in Wolfram Language (Mathematica), there are two core algorithms for the computation of control sets available as two options of destify in (ActoNetLib.nb) :
 
 1) Integer Linear Programming 
-2) Binary Decision Diagrams
+2) Binary Decision Diagrams (detailed in BDD-destify.nb)
 
 # References
 The theory and algorithms are described in :
